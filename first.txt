@@ -11,3 +11,7 @@ Parents
 
 Mother relatives:
 1) Papu
+
+Father relative brothers:
+1) Doctor
+2) King
