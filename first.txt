@@ -16,3 +16,5 @@ Mother relatives:
 Father relative brothers:
 1) Doctor
 2) King
+
+Father sister
